@@ -8,7 +8,7 @@
                     <xs:sequence/>
                 </xs:complexType>
             </xs:element>
-#hello chg           
+#hello chg#1           
                 <xs:complexType>
                     <xs:sequence>
                        knameResponse">
